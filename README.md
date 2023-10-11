@@ -28,6 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyokuo&" alt="kyokuo" /></p>
 
-<img align="center" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif">
+<img align="left" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif">
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/216655840-d7262fea-0313-4161-9c45-f69077ea6a2f.gif">
