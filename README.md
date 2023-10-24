@@ -1,7 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
 <h1 align="center">Hi 🌊, I'm Sorin</h1>
 <h3 align="center" color="#DA70D6">Back-end Developer / Electronics enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyokuo&label=Visitors&color=0e75b6&style=flat" alt="kyokuo" /> </p>
 
 
